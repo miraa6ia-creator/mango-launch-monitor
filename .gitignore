@@ -1,6 +1,0 @@
-node_modules/
-.env
-seen-tokens.json
-.DS_Store
-*.log
-.vercel
